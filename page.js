@@ -19,7 +19,7 @@ if (panel.length === 0) {
         "<b>Favorites</b>" +
         "<ul class='favorites'></ul>" +
         "<style>" +
-        ".gm_panel { position: fixed; top:0; right: 0; z-index: 10;" +
+        ".gm_panel { position: fixed; top:0; right: 0; z-index: 30;" +
         "   background:rgba(255,255,255,0.9); border-left: 3px #d26911 solid;border-radius: 3px; width: 200px; padding: 10px 5px 15px 15px;" +
         "   max-height:100%;overflow-y:auto}" +
         "@media (max-width: 1400px){ .gm_panel { right:-185px; } .gm_panel:hover { right:0; } }" +
